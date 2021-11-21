@@ -1,0 +1,10 @@
+scrapy startproject scrapy_movie
+
+cd scrapy_movie\scrapy_movie\spiders
+
+scrapy genspider mv https://www.dytt8.net/html/gndy/china/index.html
+
+scrapy crawl mv
+
+
+
